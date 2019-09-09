@@ -1,0 +1,24 @@
+<html>
+<head>
+<style>
+body {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+img {
+ max-width: 100%;
+}
+</style>
+</head>
+<header>
+<img src="https://mura-web.s3-ap-northeast-1.amazonaws.com/img/top.png">
+</header>
+<h1>Please call my APIs.</h1>
+<h2>synm/call</h2>
+
+<p>clue: RESTful</p>
+</html>
